@@ -156,7 +156,4 @@ No known bugs at this time.
 ## Authors
 Getinet Amare - [Github](https://github.com/gama1221) / 
 
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
 # AirBnB_clone_v2
